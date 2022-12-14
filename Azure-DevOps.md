@@ -9,7 +9,9 @@ comments: false
 ---
 
 ![painting](https://th.bing.com/th/id/R.69da29ad260df566a21ff01085bbb9ef?rik=7c94E6PryrcySg&pid=ImgRaw&r=0)
+
 ---
+
 # What is Azure DevOps?
 
 ![painting](https://www.pngkey.com/png/detail/374-3741413_devops-is-more-about-technology-than-the-teams.png)
@@ -18,33 +20,41 @@ Azure DevOps supports a collaborative culture and set of processes that bring to
 software. It allows organizations to create and improve products at a faster pace than they can with traditional software development approaches.
 Azure DevOps provides integrated features that you can access through your web browser or IDE client. You can use all the services included with
 Azure DevOps, or choose just what you need to complement your existing workflows.
----
-# Azure Boards
 
+
+
+# Azure Boards
 
 Azure Boards provides software development teams with the interactive and customizable tools they need to manage their software projects. It
 provides a rich set of capabilities including native support for Agile, Scrum, and Kanban processes, calendar views, configurable dashboards, and
 integrated reporting. These tools scale as your business grows.
----
+
+
+
 # Azure Repos
 
 ![painting](https://th.bing.com/th/id/OIP.SLB0J2Wn1sWkDjmU2Yb6-wAAAA?pid=ImgDet&rs=1)
 
 Azure Repos is a set of version control tools that you can use to manage your code. Whether your software project is large or small, using version
 control as soon as possible is a good idea.
+
 Version control systems are software that help you track changes you make in your code over time. As you edit your code, you tell the version
 control system to take a snapshot of your files. The version control system saves that snapshot permanently so you can recall it later if you need
 it. Use version control to save your work and coordinate code changes across your team.
+
 Even if you're just a single developer, version control helps you stay organized as you fix bugs and develop new features. Version control keeps a
 history of your development so that you can review and even roll back to any version of your code with ease.
 You can create a local copy of a remote Git repo by cloning it into a local folder on your computer. Cloning a remote repo download all commits on
 all branches of the repo. 
+
 You can use Visual Studio or Git commands to clone a repository, define local branches, commit and push changes, and sync with others.
 Create pull requests (PRs) to change, review, and merge code in a Git repository. You can create PRs from branches in the upstream repository or
 from branches in your fork of the repository. Your team can review the PRs and give feedback on changes.
 To create and complete a PR, you must be a member of the Contributors
 security group or have the corresponding permissions.
----
+
+
+
 # Azure Pipelines
 
 ![painting](https://th.bing.com/th/id/OIP.W-XvzYCLmdn45FqwnVpCYgHaHa?w=159&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)
@@ -54,7 +64,9 @@ type. Azure Pipelines combines continuous integration (CI) and continuous delive
 
 You can create a connection from Azure Pipelines to external and remote services for executing tasks in a job. Once you establish a connection,
 you can view, edit, and add security to the service connection.
----
+
+
+
 # Azure Test Plans
 
 ![painting](https://th.bing.com/th/id/OIP.C-mEl3VjvvHt6JsmlH1dwwAAAA?pid=ImgDet&rs=1)
@@ -64,13 +76,13 @@ process. The easy-to-use, browser-based test management solution provides all th
 acceptance testing, exploratory testing, and gathering feedback from stakeholders.
 
 Create test plans and test suites to track manual testing for sprints or milestones. That way, you can see when the testing for a specific sprint
-or milestone is complete.
+or milestone is complete **.**
 
 Automate test cases in your test plans and run them directly from **Azure Test Plans.**
 
 Create manual test cases to check that each deliverable meets your users' needs. Manual test cases define individual steps testers perform,
 including steps that are shared across test cases. To test different data, you specify parameters for the test steps.
----
+
 # Azure Artifacts
 
 ![painting](https://th.bing.com/th/id/R.7599808bff03af24317d2a9bf7340039?rik=WN512WqZSx%2bgEw&pid=ImgRaw&r=0)
