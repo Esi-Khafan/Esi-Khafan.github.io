@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Azure-DevOps"
+    url: /Azure-DevOps/ 
   - title: "CV"
     url: /cv/
   - title: "Courses"
