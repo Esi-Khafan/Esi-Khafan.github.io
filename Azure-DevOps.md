@@ -8,9 +8,7 @@ modified: 9-14-2019
 comments: false
 ---
 
-
-# Azure-DevOps
-
+#
 # What is Azure DevOps?
 
 [https://th.bing.com/th/id/R.f99762e05c3eb821105f8f97eb66548d?rik=0hyFvKY%2fbPuvrw&pid=ImgRaw&r=0](https://th.bing.com/th/id/R.f99762e05c3eb821105f8f97eb66548d?rik=0hyFvKY%2fbPuvrw&pid=ImgRaw&r=0)
@@ -18,13 +16,12 @@ comments: false
 Azure DevOps supports a collaborative culture and set of processes that bring together developers, project managers, and contributors to develop software. It allows organizations to create and improve products at a faster pace than they can with traditional software development approaches.
 
 Azure DevOps provides integrated features that you can access through your web browser or IDE client. You can use all the services included with Azure DevOps, or choose just what you need to complement your existing workflows
-
+---
 # Azure Boards
 
-![https://store-images.s-microsoft.com/image/apps.45766.90bc905c-7e74-44bd-8e35-b6a66582227b.70681edc-518a-48c0-b3d1-3793746b3be4.4b202b3e-a046-4a2f-8d63-ccd79995f2bd.png](https://store-images.s-microsoft.com/image/apps.45766.90bc905c-7e74-44bd-8e35-b6a66582227b.70681edc-518a-48c0-b3d1-3793746b3be4.4b202b3e-a046-4a2f-8d63-ccd79995f2bd.png)
 
 Azure Boards provides software development teams with the interactive and customizable tools they need to manage their software projects. It provides a rich set of capabilities including native support for Agile, Scrum, and Kanban processes, calendar views, configurable dashboards, and integrated reporting. These tools scale as your business grows.
-
+---
 # Azure Repos
 
 [https://th.bing.com/th/id/OIP.SLB0J2Wn1sWkDjmU2Yb6-wAAAA?pid=ImgDet&rs=1](https://th.bing.com/th/id/OIP.SLB0J2Wn1sWkDjmU2Yb6-wAAAA?pid=ImgDet&rs=1)
@@ -44,6 +41,7 @@ Create pull requests (PRs) to change, review, and merge code in a Git repositor
 To create and complete a PR, you must be a member of the **Contributors**
  security group or have the corresponding permissions.
 
+---
 # Azure Pipelines
 
 [https://th.bing.com/th/id/OIP.W-XvzYCLmdn45FqwnVpCYgHaHa?w=159&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7](https://th.bing.com/th/id/OIP.W-XvzYCLmdn45FqwnVpCYgHaHa?w=159&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)
@@ -51,7 +49,7 @@ To create and complete a PR, you must be a member of the **Contributors**
 Azure Pipelines automatically builds and tests code projects to make them available to others. It works with just about any language or project type. Azure Pipelines combines continuous integration (CI) and continuous delivery (CD) to test and build your code and ship it to any target.
 
 You can create a connection from Azure Pipelines to external and remote services for executing tasks in a job. Once you establish a connection, you can view, edit, and add security to the service connection.
-
+---
 # Azure Test Plans
 
 [https://th.bing.com/th/id/OIP.C-mEl3VjvvHt6JsmlH1dwwAAAA?pid=ImgDet&rs=1](https://th.bing.com/th/id/OIP.C-mEl3VjvvHt6JsmlH1dwwAAAA?pid=ImgDet&rs=1)
@@ -63,7 +61,7 @@ Create test plans and test suites to track manual testing for sprints or milesto
 Automate test cases in your test plans and run them directly from **Azure Test Plans.**
 
 Create manual test cases to check that each deliverable meets your users' needs. Manual test cases define individual steps testers perform, including steps that are shared across test cases. To test different data, you specify parameters for the test steps.
-
+---
 # Azure Artifacts
 
 [https://th.bing.com/th/id/R.7599808bff03af24317d2a9bf7340039?rik=WN512WqZSx%2bgEw&pid=ImgRaw&r=0](https://th.bing.com/th/id/R.7599808bff03af24317d2a9bf7340039?rik=WN512WqZSx%2bgEw&pid=ImgRaw&r=0)
