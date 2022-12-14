@@ -8,10 +8,10 @@ modified: 9-14-2019
 comments: false
 ---
 
-#
+
 # What is Azure DevOps?
 
-[https://th.bing.com/th/id/R.f99762e05c3eb821105f8f97eb66548d?rik=0hyFvKY%2fbPuvrw&pid=ImgRaw&r=0](https://th.bing.com/th/id/R.f99762e05c3eb821105f8f97eb66548d?rik=0hyFvKY%2fbPuvrw&pid=ImgRaw&r=0)
+![painting](https://th.bing.com/th/id/R.f99762e05c3eb821105f8f97eb66548d?rik=0hyFvKY%2fbPuvrw&pid=ImgRaw&r=0)
 
 Azure DevOps supports a collaborative culture and set of processes that bring together developers, project managers, and contributors to develop software. It allows organizations to create and improve products at a faster pace than they can with traditional software development approaches.
 
@@ -24,7 +24,7 @@ Azure Boards provides software development teams with the interactive and custom
 ---
 # Azure Repos
 
-[https://th.bing.com/th/id/OIP.SLB0J2Wn1sWkDjmU2Yb6-wAAAA?pid=ImgDet&rs=1](https://th.bing.com/th/id/OIP.SLB0J2Wn1sWkDjmU2Yb6-wAAAA?pid=ImgDet&rs=1)
+![painting](https://th.bing.com/th/id/OIP.SLB0J2Wn1sWkDjmU2Yb6-wAAAA?pid=ImgDet&rs=1)
 
 Azure Repos is a set of version control tools that you can use to manage your code. Whether your software project is large or small, using version control as soon as possible is a good idea.
 
@@ -38,13 +38,13 @@ You can use Visual Studio or Git commands to clone a repository, define local br
 
 Create pull requests (PRs) to change, review, and merge code in a Git repository. You can create PRs from branches in the upstream repository or from branches in your fork of the repository. Your team can review the PRs and give feedback on changes.
 
-To create and complete a PR, you must be a member of the **Contributors**
+To create and complete a PR, you must be a member of the Contributors
  security group or have the corresponding permissions.
 
 ---
 # Azure Pipelines
 
-[https://th.bing.com/th/id/OIP.W-XvzYCLmdn45FqwnVpCYgHaHa?w=159&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7](https://th.bing.com/th/id/OIP.W-XvzYCLmdn45FqwnVpCYgHaHa?w=159&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)
+![painting](https://th.bing.com/th/id/OIP.W-XvzYCLmdn45FqwnVpCYgHaHa?w=159&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)
 
 Azure Pipelines automatically builds and tests code projects to make them available to others. It works with just about any language or project type. Azure Pipelines combines continuous integration (CI) and continuous delivery (CD) to test and build your code and ship it to any target.
 
@@ -52,7 +52,7 @@ You can create a connection from Azure Pipelines to external and remote services
 ---
 # Azure Test Plans
 
-[https://th.bing.com/th/id/OIP.C-mEl3VjvvHt6JsmlH1dwwAAAA?pid=ImgDet&rs=1](https://th.bing.com/th/id/OIP.C-mEl3VjvvHt6JsmlH1dwwAAAA?pid=ImgDet&rs=1)
+![painting](https://th.bing.com/th/id/OIP.C-mEl3VjvvHt6JsmlH1dwwAAAA?pid=ImgDet&rs=1)
 
 Azure Test Plans provides rich and powerful tools everyone in the team can use to drive quality and collaboration throughout the development process. The easy-to-use, browser-based test management solution provides all the capabilities required for planned manual testing, user acceptance testing, exploratory testing, and gathering feedback from stakeholders.
 
@@ -64,7 +64,7 @@ Create manual test cases to check that each deliverable meets your users' needs.
 ---
 # Azure Artifacts
 
-[https://th.bing.com/th/id/R.7599808bff03af24317d2a9bf7340039?rik=WN512WqZSx%2bgEw&pid=ImgRaw&r=0](https://th.bing.com/th/id/R.7599808bff03af24317d2a9bf7340039?rik=WN512WqZSx%2bgEw&pid=ImgRaw&r=0)
+![painting](https://th.bing.com/th/id/R.7599808bff03af24317d2a9bf7340039?rik=WN512WqZSx%2bgEw&pid=ImgRaw&r=0)
 
 Azure Artifacts enables developers to share their code efficiently and manage all their packages from one place. With Azure Artifacts, developers can publish packages to their feeds and share it within the same team, across organizations, and even publicly. Developers can also consume packages from different feeds and public registries such as [NuGet.org](http://nuget.org/) or [npmjs.com](http://npmjs.com/). Azure Artifacts supports multiple package types such as NuGet, npm, Python, Maven, and Universal Packages.
 
@@ -74,4 +74,4 @@ With Azure Artifacts you can publish, consume, and store different types of pack
 
 You can use Azure Artifacts in conjunction with Azure Pipelines to deploy packages, publish build artifacts, or integrate files between your pipeline stages to build, test, or deploy your application.
 
-[https://th.bing.com/th/id/OIP.aXu_pRo2Isnw42YiD-yYTgHaD4?pid=ImgDet&rs=1](https://th.bing.com/th/id/OIP.aXu_pRo2Isnw42YiD-yYTgHaD4?pid=ImgDet&rs=1)
+![painting](https://th.bing.com/th/id/OIP.aXu_pRo2Isnw42YiD-yYTgHaD4?pid=ImgDet&rs=1)
