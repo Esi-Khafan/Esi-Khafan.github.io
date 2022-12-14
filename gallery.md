@@ -13,8 +13,7 @@ comments: false
 
 
 
-![painting](https://www.autoguide.com/blog/wp-content/gallery/2019-dodge-channelger-srt-hellcat-widebody-review
-Dodge-Challenger-SRT-Hellcat-Widebody-LAI-20.jpg)
+![painting](https://th.bing.com/th/id/R.fdeabec05cd3e58740910e362c576f22?rik=FzCEfbdT%2fzVKHw&pid=ImgRaw&r=0)
 
 
 

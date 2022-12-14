@@ -87,7 +87,7 @@ including steps that are shared across test cases. To test different data, you s
 
 # Azure Artifacts
 
-![painting](https://th.bing.com/th/id/R.7599808bff03af24317d2a9bf7340039?rik=WN512WqZSx%2bgEw&pid=ImgRaw&r=0)
+![painting](https://www.mydraw.com/NIMG.axd?i=Shape-Libraries/Cloud/Azure/DevOps-Service-Color/Azure-Artifacts.png)
 
 Azure Artifacts enables developers to share their code efficiently and manage all their packages from one place. With Azure Artifacts, developers
 can publish packages to their feeds and share it within the same team, across organizations, and even publicly. Developers can also consume
