@@ -8,7 +8,8 @@ modified: 9-14-2019
 comments: false
 ---
 
-
+![painting](https://th.bing.com/th/id/R.69da29ad260df566a21ff01085bbb9ef?rik=7c94E6PryrcySg&pid=ImgRaw&r=0)
+---
 # What is Azure DevOps?
 
 ![painting](https://www.pngkey.com/png/detail/374-3741413_devops-is-more-about-technology-than-the-teams.png)
@@ -16,7 +17,7 @@ comments: false
 Azure DevOps supports a collaborative culture and set of processes that bring together developers, project managers, and contributors to develop
 software. It allows organizations to create and improve products at a faster pace than they can with traditional software development approaches.
 Azure DevOps provides integrated features that you can access through your web browser or IDE client. You can use all the services included with
-Azure DevOps, or choose just what you need to complement your existing workflows
+Azure DevOps, or choose just what you need to complement your existing workflows.
 ---
 # Azure Boards
 
@@ -43,27 +44,32 @@ Create pull requests (PRs) to change, review, and merge code in a Git repositor
 from branches in your fork of the repository. Your team can review the PRs and give feedback on changes.
 To create and complete a PR, you must be a member of the Contributors
 security group or have the corresponding permissions.
-
 ---
 # Azure Pipelines
 
 ![painting](https://th.bing.com/th/id/OIP.W-XvzYCLmdn45FqwnVpCYgHaHa?w=159&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)
 
-Azure Pipelines automatically builds and tests code projects to make them available to others. It works with just about any language or project type. Azure Pipelines combines continuous integration (CI) and continuous delivery (CD) to test and build your code and ship it to any target.
+Azure Pipelines automatically builds and tests code projects to make them available to others. It works with just about any language or project
+type. Azure Pipelines combines continuous integration (CI) and continuous delivery (CD) to test and build your code and ship it to any target.
 
-You can create a connection from Azure Pipelines to external and remote services for executing tasks in a job. Once you establish a connection, you can view, edit, and add security to the service connection.
+You can create a connection from Azure Pipelines to external and remote services for executing tasks in a job. Once you establish a connection,
+you can view, edit, and add security to the service connection.
 ---
 # Azure Test Plans
 
 ![painting](https://th.bing.com/th/id/OIP.C-mEl3VjvvHt6JsmlH1dwwAAAA?pid=ImgDet&rs=1)
 
-Azure Test Plans provides rich and powerful tools everyone in the team can use to drive quality and collaboration throughout the development process. The easy-to-use, browser-based test management solution provides all the capabilities required for planned manual testing, user acceptance testing, exploratory testing, and gathering feedback from stakeholders.
+Azure Test Plans provides rich and powerful tools everyone in the team can use to drive quality and collaboration throughout the development
+process. The easy-to-use, browser-based test management solution provides all the capabilities required for planned manual testing, user
+acceptance testing, exploratory testing, and gathering feedback from stakeholders.
 
-Create test plans and test suites to track manual testing for sprints or milestones. That way, you can see when the testing for a specific sprint or milestone is complete.
+Create test plans and test suites to track manual testing for sprints or milestones. That way, you can see when the testing for a specific sprint
+or milestone is complete.
 
 Automate test cases in your test plans and run them directly from **Azure Test Plans.**
 
-Create manual test cases to check that each deliverable meets your users' needs. Manual test cases define individual steps testers perform, including steps that are shared across test cases. To test different data, you specify parameters for the test steps.
+Create manual test cases to check that each deliverable meets your users' needs. Manual test cases define individual steps testers perform,
+including steps that are shared across test cases. To test different data, you specify parameters for the test steps.
 ---
 # Azure Artifacts
 
