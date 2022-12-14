@@ -25,6 +25,8 @@ Azure DevOps, or choose just what you need to complement your existing workflows
 
 # Azure Boards
 
+![painting](https://th.bing.com/th/id/OIP.iSTdbaJvW1XevoRm4usS9gAAAA?pid=ImgDet&w=300&h=300&rs=1)
+
 Azure Boards provides software development teams with the interactive and customizable tools they need to manage their software projects. It
 provides a rich set of capabilities including native support for Agile, Scrum, and Kanban processes, calendar views, configurable dashboards, and
 integrated reporting. These tools scale as your business grows.
@@ -69,7 +71,7 @@ you can view, edit, and add security to the service connection.
 
 # Azure Test Plans
 
-![painting](https://th.bing.com/th/id/OIP.C-mEl3VjvvHt6JsmlH1dwwAAAA?pid=ImgDet&rs=1)
+![painting](https://questionsolutions.s3.amazonaws.com/wp-content/uploads/2016/06/Untitled-3-4.png)
 
 Azure Test Plans provides rich and powerful tools everyone in the team can use to drive quality and collaboration throughout the development
 process. The easy-to-use, browser-based test management solution provides all the capabilities required for planned manual testing, user
