@@ -6,7 +6,13 @@ title: Gallery
 tags: [gallery]
 modified: 9-14-2019
 comments: false
+gallery:
+- url: /assets/images/1.jpg
+  image_path: /assets/images/1.jpg
+  alt: "placeholder image 1"
+  title: "Image 1 title caption"
 ---
+
 
 
 ![painting](https://th.bing.com/th/id/OIP.-xXfEIHmqimavAV1y6NlBQHaE8?pid=ImgDet&rs=1)

@@ -6,11 +6,6 @@ title: website course
 tags: [Studying, courses]
 modified: 9-14-2019
 comments: false
-gallery:
-- url: /assets/images/1.jpg
-  image_path: /assets/images/1.jpg
-  alt: "placeholder image 1"
-  title: "Image 1 title caption"
 ---
 
 I have done a lot of things to achieve this point like:
