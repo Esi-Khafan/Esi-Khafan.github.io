@@ -6,6 +6,7 @@ title: website course
 tags: [Studying, courses]
 modified: 9-14-2019
 comments: false
+gallery:
 - url: /assets/images/1.jpg
   image_path: /assets/images/1.jpg
   alt: "placeholder image 1"
